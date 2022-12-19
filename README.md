@@ -2,7 +2,7 @@
 
 ## A study guide to reference and to show learned skills
 
-My motivation for creating this guide is to demonstrate skills leanred over teh introductory modules.
+My motivation for creating this guide is to demonstrate skills leanred over the introductory modules.
 This project was built to use new tools and concepts learned and put those subjects into practice.
 This project solves the issue of not just reading techniques or lines of code, but how to use them in a way that makes referencing information learned easy while gaining experience with how to create a medium to easily absorb that information. This project has taught me that I have a lot of learning to continue to do, to be patient with myself during the process, and to be excited to learn something that I am interested in.
 
